@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Gerardo2803/Gerardo2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- 🔭 Actualmente estoy... comenzando a estudiar la universidad
+- 🌱 Actualmente estoy aprendiendo ...a programar
+- 👯 Estoy buscando colaborar en ... 
+- 🤔 Estoy buscando ayuda con ...
+- 💬 Pregúntame sobre ... cosas de deporte, escuela
+- 📫 Cómo contactarme: ...gerry281103@gmail.com
+- 😄 Pronombres: ...El
+- ⚡ Dato curioso: ...
